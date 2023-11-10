@@ -438,13 +438,16 @@ nav .fa-solid{
     }
     .copywrite{
         font-size: 12px;
-        padding-left: -900px;
+        padding-left: -2000px;
     }
     .copywrite i{
     font-size: 10px;
     padding-left: 30px;
     cursor: pointer;
-}
+    }
+    .btn2{
+        font-size: 15px;
+    }
 }
 #msg{
     color: orange;
