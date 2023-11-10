@@ -437,14 +437,12 @@ nav .fa-solid{
         flex-basis: 100%;
     }
     .copywrite{
-        
-        font-size: 15px;
+        font-size: 12px;
+        padding-left: 200px;
     }
     .copywrite i{
-        flex-basis: 100%;
-    }
-    .copywrite i{
-    padding-left: 50px;
+        font-size: 10px;
+    padding-left: 30px;
     cursor: pointer;
 }
 }
