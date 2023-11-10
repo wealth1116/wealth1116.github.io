@@ -438,7 +438,7 @@ nav .fa-solid{
     }
     .copywrite{
         font-size: 12px;
-        padding-left: 20px;
+        padding-left: -100px;
     }
     .copywrite i{
     font-size: 10px;
