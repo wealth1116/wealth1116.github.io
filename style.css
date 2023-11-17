@@ -25,6 +25,7 @@ body{
 
 .container{
     padding: 10px 10%;
+    top: 0;
 }
 
 nav{
@@ -85,6 +86,7 @@ nav ul li a:hover::after{
     padding: 80px 0;
     color: beige;
 }
+
 .row{
     display: flex;
     justify-content: space-between;
@@ -447,6 +449,10 @@ nav .fa-solid{
     }
     form .btn2{
         font-size: 15px;
+    }
+    #header .container nav img{
+        width: 20%;
+        height: 100%;
     }
 }
 #msg{
